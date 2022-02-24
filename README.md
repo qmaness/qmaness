@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qmaness
 - 👀 I’m interested in crypto development
-- 🌱 I’m currently learning Ethereum and Eos
+- 🌱 I’m currently learning Ethereum and Eosio
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me cdasnevesm@gmil.com
 
